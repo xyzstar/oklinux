@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  oklinux:
     build: .
     ports:
       - 80:80
